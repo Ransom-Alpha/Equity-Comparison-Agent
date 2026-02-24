@@ -1,8 +1,8 @@
 ---
-title: "Equity Comparison Agent – |Academic Only| Quantitative Toolkit"
+title: "Equity Comparison – |Academic Only| Quantitative Toolkit"
 ---
 
-# 📊 Equity Comparison Agent – Professional Quantitative Analysis Toolkit
+# 📊 Equity Comparison – Quantitative Analysis Toolkit
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
 ![OpenAI GPT-4.1/4o](https://img.shields.io/badge/AI-OpenAI%20GPT--4.1%2F4o-ff69b4?style=for-the-badge)
